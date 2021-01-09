@@ -1,3 +1,3 @@
 # Tech_interview
 
-SSAFY 5
+SSAFY 5기
