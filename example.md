@@ -8,17 +8,22 @@
 
 ## 질문 리스트 :smirk:
 ### 컴퓨터 네트워크
- - TCP의 특징
- - UDP와 TCP의 차이
- - Three hand-shake
- - OSI 7계층
- - 혼잡제어, 흐름제어
+
+>  - TCP의 특징
+>  - UDP와 TCP의 차이
+>  - Three hand-shake
+>  - OSI 7계층
+>  - 혼잡제어, 흐름제어
+
 ### 프로토콜
- - 프로토콜 종류
+
+>  - 프로토콜 종류
+
 ### 큰목차
- - 질문1
- - 질문2
- - 질문3
+
+>  - 질문1
+>  - 질문2
+>  - 질문3
 
 
 ## FEEDBACK :satisfied:
