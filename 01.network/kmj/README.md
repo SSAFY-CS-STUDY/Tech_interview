@@ -7,3 +7,4 @@
 |21.01.15|HTTP/HTTPS|[✅보러가기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/01.network/kmj/21.01.15.md)|
 |21.01.16|DNS|[✅보러가기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/01.network/kmj/21.01.16.md)|
 |21.01.17|웹, CORS, OAuth2, Socket, REST|[✅보러가기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/01.network/kmj/21.01.17.md)|
+|21.01.23|DOM, Blocking/NonBlocking, SPA, JWT/AJAX, DHCP|[✅보러가기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/01.network/kmj/21.01.23.md)|
