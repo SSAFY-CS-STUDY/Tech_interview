@@ -2,11 +2,11 @@
 
 |설명|링크|
 |------|-----|
-|Database|[✅보러가기]()|
-|Normalization|[✅보러가기]()|
-|RDBMS/NoSQL|[✅보러가기]()|
-|Transaction|[✅보러가기]()|
-|Index|[✅보러가기]()|
+|Database|[✅보러가기](#database)|
+|Normalization|[✅보러가기](#normalization)|
+|RDBMS/NoSQL|[✅보러가기](#rdbmsnosql)|
+|Transaction|[✅보러가기](#transaction)|
+|Index|[✅보러가기](#index)|
 
 ## Database
 #### 💡 Database의 특징을 설명하시오.
