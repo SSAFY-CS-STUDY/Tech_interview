@@ -8,7 +8,7 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 - [ ] 서브네팅과 서브넷 주소
 - [ ] 방화벽
 
-## [OSI 7 layers와 TCP/IP 4 layer](#osi-7-layers와-tcpip-4-layers)
+## [OSI 7 layers와 TCP/IP 4 layer](#osi-7-layers와-tcpip-4-layers-답변)
 #### 💡 프로토콜이란?
 #### 💡 패킷이란?
 #### 💡 OSI 7 Layer와 각 계층에 대한 설명을 해주세요.
@@ -20,7 +20,7 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 #### 💡 IPV4 vs IPV6 을 설명해주세요.
 #### 💡 IPv4의 주소 부족현상을 해결하기 위해 현재 어떤 방법을 사용하고 있나요?
 
-## [TCP와 UDP](#tcp-udp)
+## [TCP와 UDP](#tcp와-udp-답변)
 #### 💡 TCP와 UDP의 특징과 차이점을 설명해주세요.
 #### 💡 TCP를 사용하는 대표적인 프로토콜은 무엇인가요?
 #### 💡 3-Handshaking과 4-Handshaking의 과정을 설명해주세요. 
@@ -370,10 +370,10 @@ OSI 7 계층은 Physical, Data Link, Network, Transport, Session, Presentation, 
 #### 💡 웹소켓 (WebScoket)과 TCP/IP 소켓의 차이점은 무엇인가요?  
 
 
+# 📝
+* Slow-start
 
-
-[뒤로](https://github.com/SSAFY-CS-STUDY/Tech_interview)/[위로](#part-1-3-network)
-
+[뒤로](https://github.com/SSAFY-CS-STUDY/Tech_interview)/[위로](#part-02-database)
 </br>
 
 </br>
