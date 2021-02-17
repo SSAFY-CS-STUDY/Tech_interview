@@ -2,8 +2,6 @@
 
 |날짜|설명|링크|
 |------|---|---|
-|21.01.16|DB/데이터모델링|[✅보러가기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/02.database/phb/21.01.12.md)|
-|21.01.13|정규화/DB설계|[✅보러가기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/02.database/phb/21.01.13.md)|
-|21.01.14|RDBMS|[✅보러가기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/02.database/phb/21.01.14.md)|
-|21.01.16|트랜잭션|[✅보러가기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/02.database/phb/21.01.16.md)|
+|21.02.15|프로세스/스레드|[✅보러가기](https://github.com/happ-in/Tech_interview/blob/main/03.Operating_system/phb/21.02.15.md)|
+|21.02.16|스케줄링|[✅보러가기](https://github.com/happ-in/Tech_interview/blob/main/03.Operating_system/phb/21.02.16.md)|
 
