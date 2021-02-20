@@ -1,4 +1,4 @@
-# Part 02. Database
+# Part 02 Database
 
 Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/kmj) [박혜빈](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/phb) [이연주](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/lyj) [황성현](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/02.database/hsh)
 
@@ -25,6 +25,15 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 #### 💡 정규화 단계별 과정에 대해 설명하시오.
 
 ## [RDBMS/NoSQL](#rdbmsnosql-답변)
+#### 💡 데이터 모델링이 무엇인가요?
+
+## Normalization
+#### 💡 정규화를 왜 진행하나요?
+#### 💡 모든 테이블에 정규화를 진행하나요?
+#### 💡 이상현상에 대해 설명하시오.
+#### 💡 정규화 단계별 과정에 대해 설명하시오.
+
+## RDBMS/NoSQL
 #### 💡 관계형 데이터베이스의 특징
 #### 💡 무결성 제약조건이란 무엇인가?
 #### 💡 View란 무엇인가?
@@ -218,3 +227,4 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 * Elastic-Search
 * Sharding
 
+[뒤로](https://github.com/SSAFY-CS-STUDY/Tech_interview)/[위로](#part-02-database)
