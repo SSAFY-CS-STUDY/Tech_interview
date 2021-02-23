@@ -7,4 +7,7 @@
 |21.02.17|메모리 관리 전략|[✅보러가기](https://github.com/happ-in/Tech_interview/blob/main/03.Operating_system/phb/21.02.17.md)|
 |21.02.19|가상메모리 및 페이지 교체 알고리즘|[✅보러가기](https://github.com/happ-in/Tech_interview/blob/main/03.Operating_system/phb/21.02.19.md)|
 |21.02.20|캐시 및 파일 시스템|[✅보러가기](https://github.com/happ-in/Tech_interview/blob/main/03.Operating_system/phb/21.02.20.md)|
+|21.02.22|인터럽트, 커널|[✅보러가기](https://github.com/happ-in/Tech_interview/blob/main/03.Operating_system/phb/21.02.22.md)
+|21.02.23|IPC|[✅보러가기](https://github.com/happ-in/Tech_interview/blob/main/03.Operating_system/phb/21.02.23.md)
+|21.02.24||[✅보러가기]
 
