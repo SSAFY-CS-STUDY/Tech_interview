@@ -44,7 +44,7 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 #### 💡 조회하기 위한 용도 POST가 아닌 GET 방식을 사용하는 이유?  
 #### 💡 현대 웹 에서는 비연결성을 해결방법을 설명해주세요.  
 
-## [DNS와 DHCP](#dns-dhcp-답변)
+## [DNS와 DHCP](#dns와-dhcp-답변)
 #### 💡 도메인과 DNS가 무엇인지 설명해주세요  
 #### 💡 Domain Name 구조를 설명해주세요.  
 #### 💡 DNS round robin 방식의 문제점과 해결방법을 설명해주세요.  
