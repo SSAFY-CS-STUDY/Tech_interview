@@ -1,13 +1,9 @@
 # Tech_interview
 
-<details>
- <summary> <b>📌 Computer Science</b> </summary>
-  <ul>
-    <li> Operating System </li>
-    <li> Database </li>
-    <li> Network </li>
-  </ul>
-</details>
+|**과목명**|**질문보기**|**개념보기**|
+|-|-|-|
+|Database|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/02.database/README.md)|📒개념보기|
+|Network|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/01.network/README.md)|📒개념보기|
 
 
 <details>
