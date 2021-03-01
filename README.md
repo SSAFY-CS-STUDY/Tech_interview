@@ -24,10 +24,4 @@
 │  │      ├─ 공부목차 (README.md)
 ```
 
-<details>
- <summary> <b>📌 Algorithm</b> </summary>
-  <ul>
-    <li> Sort </li>
-  </ul>
-</details>
 
