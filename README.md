@@ -9,7 +9,7 @@
 |-|-|
 |Database|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/02.database/README.md)|
 |Network|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/01.network/README.md)|
-
+|Operating System|작성 중...|
 <br/>
 
 ### 문서구조  
