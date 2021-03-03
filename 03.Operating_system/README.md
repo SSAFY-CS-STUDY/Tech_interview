@@ -2,7 +2,7 @@
 
 Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/03.Operating_system/kmj) [박혜빈](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/03.Operating_system/phb) [이연주](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/03.Operating_system/lyj) [황성현](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/03.Operating_system/hsh)
 
-## [Process & Thread](#)
+## [Process & Thread](#process--thread-답변)
 #### 💡 운영체제란 무엇인가? 
 #### 💡 프로세스와 스레드에 대해 설명해주세요.
 #### 💡 멀티 스레드의 장점 및 단점은 무엇인가?
@@ -13,7 +13,7 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 #### 💡 Thread-safe가 뭐에요?
 #### 💡 세마포어와 뮤텍스를 설명해주세요.
 
-## [Scheduling](#Scheduling-답변)
+## [Scheduling](#scheduling-답변)
 #### 💡 스케줄러란?
 #### 💡 스케줄링 단계를 설명해주세요. 
 #### 💡 스케줄링이 무엇인지와 목적을 설명해주세요
@@ -23,7 +23,7 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 #### 💡 Round Robin 스케줄링이 뭐에요?
 #### 💡 스케줄링 기법 중 FCFS의 단점과 해결 방법을 설명해주세요.
 
-## [메모리 관리 전략](#)
+## [메모리 관리 전략](#메모리-관리-전략-답변)
 #### 💡 교착상태 vs 기아상태
 #### 💡 운영 체제에서 에이징(Aging)는 무엇입니까?
 #### 💡 외부 단편화와 내부 단편화란?
@@ -31,7 +31,7 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 #### 💡 메모리 단편화 해결 기법에 대해 설명하시오.
 #### 💡 페이지 교체 알고리즘 중 3가지를 선택해서 설명해주세요. 
 
-## [가상 메모리](#)
+## [가상 메모리](#가상-메모리-답변)
 #### 💡 가상메모리의 역할은 무엇인가요?
 #### 💡 Page Fault에 대해 설명하시오.
 #### 💡 Demand Paging(요구 페이징)에 대해 설명하시오.
@@ -39,7 +39,7 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 #### 💡 페이지 적중율을 극대화 시키기 위한 방법에는 무엇이 있는지 간략히 설명해주세요. 
 #### 💡 Cache 메모리를 사용하는 이유에 대해 설명하시오.
 
-## [커널](#)
+## [커널](#커널-답변)
 #### 💡 Kernel(커널)이란?
 #### 💡 인터럽트가 필요한 이유 및 언제 발생되는지 말해주세요.
 #### 💡 인터럽트 종류는 무엇이 있으며 우선순위를 말해주세요.
