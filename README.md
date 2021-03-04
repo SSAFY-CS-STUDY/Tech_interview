@@ -1,5 +1,5 @@
 
-# Tech_interview 💬
+# Tech_interview 🎤
 
 <a href="https://github.com/SSAFY-CS-STUDY/Tech_interview/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SSAFY-CS-STUDY/Tech_interview" />
