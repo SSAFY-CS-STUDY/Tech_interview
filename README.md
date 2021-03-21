@@ -7,7 +7,10 @@
   <img src="https://contrib.rocks/image?repo=SSAFY-CS-STUDY/Tech_interview" />
 </a>
 
-### 면접질문모음  
+## 소개
+- SSAFY 5기 4명이서 만든 CS 스터디 Repo입니다. 
+
+## 면접질문모음  
 |**과목명**|**질문보기**|
 |-|-|
 |Database|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/02.database/README.md)|
@@ -16,7 +19,7 @@
 |Java|📃진행 중|
 <br/>
 
-### 문서구조  
+## 문서구조  
 ```sh
 ├─CS과목명
 │  ├─hsh
