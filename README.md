@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=TECH-INTERVIEW&fontAlign=65&fontAlignY=35&color=gradient)
+
 # 🎤 Tech_interview 
 
 
