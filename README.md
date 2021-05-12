@@ -19,7 +19,7 @@
 |**Database**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/02.database/README.md)|2021.01.11 ~ 2021.01.21|O|
 |**Network**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/01.network/README.md)|2021.01.22 ~ 2021.02.09|O|
 |**Operating System**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md)|2021.02.15 ~ 2021.03.03|-|
-|**Java**|📃진행 중|2021.03.15 ~ ing|-|
+|**Java**|[📃질문보기](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/04.Java/README.md)|2021.03.15 ~ 2021.05.12|-|
 <br/>
 
 ## 📑 문서구조   
