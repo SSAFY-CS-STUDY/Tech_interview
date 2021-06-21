@@ -2,7 +2,7 @@
 
 Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/04.Java/kmj) [박혜빈](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/04.Java/phb) [이연주](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/04.Java/lyj) [황성현](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/04.Java/hsh)
 
-## 객체지향
+## [객체지향](#객체지향-답변)
 
 #### 💡 객체지향 프로그래밍과 절차지향 프로그래밍의 차이에 대해 설명하시오.
 
@@ -16,7 +16,7 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 
 #### 💡 객체와 인스턴스의 차이는 무엇인가요?
 
-## Java
+## [Java](#java-답변)
 
 #### 💡 자바의 특징에 대해 설명하시오.
 
@@ -94,7 +94,7 @@ Made by. [김민지](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/
 
 #### ✏️ : 의논 중인 미완성 답변입니다.
 
-## 객체지향
+## 객체지향 
 
 #### 💡 객체지향 프로그래밍과 절차지향 프로그래밍의 차이에 대해 설명하시오.
 
