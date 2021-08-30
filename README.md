@@ -1,8 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Tech-Interview&fontAlign=70&fontAlignY=35&color=gradient)
 
-<a href="https://github.com/SSAFY-CS-STUDY/Tech_interview/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SSAFY-CS-STUDY/Tech_interview" />
-</a>
+
 
 ## 📣 소개 
 - SSAFY 5기생들이 만든 CS 스터디 Repo입니다.🤸‍♀️🤸‍♂️🤸‍♀️🤸‍ **(21.01.11 ~ 현재 진행 중)**
@@ -40,5 +38,11 @@
   * https://github.com/JaeYeopHan/Interview_Question_for_Beginner
   * https://github.com/gyoogle/tech-interview-for-developer
 
----
+
+## ⭐️ 도움을 주신 분들
+<a href="https://github.com/SSAFY-CS-STUDY/Tech_interview/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SSAFY-CS-STUDY/Tech_interview" />
+</a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSSAFY-CS-STUDY%2FTech_interview&count_bg=%233FDB48&title_bg=%23555555&icon=wechat.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
