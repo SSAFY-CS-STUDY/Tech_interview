@@ -43,6 +43,7 @@
 <a href="https://github.com/SSAFY-CS-STUDY/Tech_interview/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SSAFY-CS-STUDY/Tech_interview" />
 </a>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSSAFY-CS-STUDY%2FTech_interview&count_bg=%233FDB48&title_bg=%23555555&icon=wechat.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
